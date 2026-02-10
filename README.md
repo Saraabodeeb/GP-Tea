@@ -1,5 +1,22 @@
 # GP-Tea: Artificial Intelligence in Healthcare
 
+> A smart healthcare companion mobile application designed to bridge the gap between patients and preliminary medical diagnosis using Artificial Intelligence.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI_Assisted-Vibe_Coding-7000FF?style=for-the-badge)
+![Efficiency](https://img.shields.io/badge/Efficiency-60%25_Faster-success?style=for-the-badge)
+
+## ⚡ GenAI Impact: Accelerating Development
+This project demonstrates the power of **AI-Assisted Engineering**. By leveraging tools like Claude 3.5 Sonnet and GPT-4 for code generation and architectural guidance, we achieved a **60% reduction in R&D time**.
+
+<img width="1604" height="898" alt="image" src="https://github.com/user-attachments/assets/231cf494-5a46-4059-bcd0-a95a9880779c" />
+
+*> Comparative analysis showing over 30 hours of development time saved across Research, Coding, and Testing phases.*
+
+## 👩‍💻 My Contribution (Frontend & Integration)
+* **UI Development:** Built the complete mobile interface using **Flutter**.
+* **System Integration:** Connected the **FastAPI** backend services with the mobile frontend.
+* **Feature Assembly:** Orchestrated various AI modules into a cohesive application.
 **Challenge**: Artificial Intelligence in Healthcare
 
 A comprehensive healthcare application built with Flutter frontend and FastAPI backends, featuring AI-powered medical analysis tools including symptom checking, medical image classification, and lab report analysis.
