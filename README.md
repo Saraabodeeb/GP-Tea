@@ -305,12 +305,6 @@ For production deployment, consider using:
 
 This application is developed for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical concerns.
 
-## 📲 Try the Application
-
-You can download and try the latest build of the **AI in Healthcare** application from the link below:
-
-[Download Application](https://drive.google.com/file/d/10opWPUUOJsTkXuGMDGSNiDKNFgaCFS_G/view?usp=sharing)
-
 ---
 
 ## 🌐 Live Deployment
